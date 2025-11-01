@@ -1,5 +1,5 @@
-import d5.python_Module as python_Module
+import d5.learn__Module as learn__Module
 
-m = python_Module.get_current_time()
+m = learn__Module.get_current_time()
 
 print(m)
